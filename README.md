@@ -7,8 +7,8 @@ In this project, we pick one of these datasets and use PySpark to perform the cl
 
 ## Results
 
-<img src="https://github.com/Jponce25/MechaCar_Statistical_Analysis/blob/ce5f562e0c5a07738525265365ed72af68a1f93c/Images/2.png" width="300">
-<img src="https://github.com/Jponce25/MechaCar_Statistical_Analysis/blob/ce5f562e0c5a07738525265365ed72af68a1f93c/Images/2.png" width="300">
+<img src="https://github.com/Jponce25/Amazon_Vine_Analysis/blob/9b425481f86f9d0b30cd24ff51ae078cfe217b90/Image/Imagen1.png" width="300">
+<img src="https://github.com/Jponce25/Amazon_Vine_Analysis/blob/9b425481f86f9d0b30cd24ff51ae078cfe217b90/Image/Imagen3.png" width="300">
 
 • How many Vine reviews and non-Vine reviews were there?
 
@@ -27,8 +27,8 @@ Percentage of 5-star reviews for unpaid Vine program was: 38.70%
 
 ## Summary
 
-<img src="https://github.com/Jponce25/MechaCar_Statistical_Analysis/blob/ce5f562e0c5a07738525265365ed72af68a1f93c/Images/2.png" width="300">
-<img src="https://github.com/Jponce25/MechaCar_Statistical_Analysis/blob/ce5f562e0c5a07738525265365ed72af68a1f93c/Images/2.png" width="300">
+<img src="https://github.com/Jponce25/Amazon_Vine_Analysis/blob/9b425481f86f9d0b30cd24ff51ae078cfe217b90/Image/Imagen2.png" width="300">
+<img src="https://github.com/Jponce25/Amazon_Vine_Analysis/blob/9b425481f86f9d0b30cd24ff51ae078cfe217b90/Image/Imagen4.png" width="300">
 
 A positive deviation in the reviews of the Vine program is observed, since more than half of the paid reviews (51.06%) resulted in 5 stars, while of the total unpaid reviews only 38.70% resulted in 5 stars.
 
