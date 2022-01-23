@@ -13,16 +13,19 @@ In this project, we pick one of these datasets and use PySpark to perform the cl
 **• How many Vine reviews and non-Vine reviews were there?**
 
 Number of reviews for paid Vine program was: 94
+
 Number of reviews for unpaid Vine program was: 40471
 
 **• How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
 Number of 5-star reviews for paid Vine program was: 48
+
 Number of 5-star reviews for unpaid Vine program was: 15663
 
 **• What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
 Percentage of 5-star reviews for paid Vine program was: 51.06%
+
 Percentage of 5-star reviews for unpaid Vine program was: 38.70%
 
 ## Summary
